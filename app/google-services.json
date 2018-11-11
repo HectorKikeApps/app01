@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "910294135700",
+    "firebase_url": "https://game1-a15f7.firebaseio.com",
+    "project_id": "game1-a15f7",
+    "storage_bucket": "game1-a15f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910294135700:android:d619b11a85d918a2",
+        "android_client_info": {
+          "package_name": "com.example.hector.game_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910294135700-8gm4nqg0mdmpu6i5kiff6paaqbusff99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hector.game_1",
+            "certificate_hash": "8a322a773b33c0ffecfcaa34eae911f114634d17"
+          }
+        },
+        {
+          "client_id": "910294135700-9p73likd1vetsajh8odc5nmff82q2708.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdAebYn6rO2Vkpqhzw2xcQuypG20aZw8Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910294135700-9p73likd1vetsajh8odc5nmff82q2708.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
