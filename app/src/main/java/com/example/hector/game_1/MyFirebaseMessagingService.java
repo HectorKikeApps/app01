@@ -27,7 +27,7 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
         }
         //handleNow();
         Intent intent=new Intent();
-        intent.putExtra("body","bla");
+        intent.putExtra("body","bla"+remoteMessage.getNotification().getBody());
         intent.setAction("ACTION_1");
         sendBroadcast(intent);
 
